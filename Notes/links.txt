@@ -1,0 +1,16 @@
+WordPress Codex
+---------------
+
+Theme Structure
+https://developer.wordpress.org/themes/core-concepts/theme-structure/
+
+Optimization
+https://codex.wordpress.org/WordPress_Optimization/Cheat_Sheet
+
+
+WP-kama
+-------
+
+Cheat Sheet
+https://wp-kama.com/handbook/cheatsheet
+
